@@ -1,4 +1,5 @@
-# Win11DoVi_elevated_black
+# Windows 11 Dolby Vision desktop elevated black level fix
+
 This app addresses the Windows 11 desktop elevated black level in Dolby Vision mode.
 
 Currently, the Windows 11 desktop has an issue - when it is loading in the Dolby Vision mode, the desktop has an elevated black level, which results in distorted gamma.
