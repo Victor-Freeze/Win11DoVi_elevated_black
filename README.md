@@ -11,3 +11,5 @@ This application tries several methods to re-initialize the monitor to fix the e
 _**Unfortunately, you have to run this app at each Windows 11 startup.**_
 
 If you don't want to do it manually each time - you can consider putting the app or a shortcut to it into the Windows StartUp folder (C:\Users\[username]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup) or add a task to the Windows Scheduler.
+
+© The code is created with Copilot. Feel free to make it better.
